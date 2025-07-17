@@ -1,0 +1,32 @@
+[
+  {
+    "id": "AGENT001",
+    "name": "mina mousa",
+    "egy_phone": "1559722097",
+    "uae_phone": "568326116",
+    "passport_number": "A28228521",
+    "location_in_egypt": "shrouq",
+    "created_at": "2025-07-17T12:50:11.660Z",
+    "updated_at": "2025-07-17T12:50:11.660Z"
+  },
+  {
+    "id": "AGENT002",
+    "name": "mahmoud gamail",
+    "egy_phone": "1144811939",
+    "uae_phone": "525526140",
+    "passport_number": "A41266921",
+    "location_in_egypt": "Giza",
+    "created_at": "2025-07-17T12:50:11.714Z",
+    "updated_at": "2025-07-17T12:50:11.714Z"
+  },
+  {
+    "id": "AGENT003",
+    "name": "Bassam Mohamed",
+    "egy_phone": "1031701610",
+    "uae_phone": "505514543",
+    "passport_number": "784-1986-2682419-1",
+    "location_in_egypt": "Dubai",
+    "created_at": "2025-07-17T12:50:11.759Z",
+    "updated_at": "2025-07-17T12:50:11.759Z"
+  }
+]

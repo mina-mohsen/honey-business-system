@@ -1,0 +1,90 @@
+[
+  {
+    "id": "BATCH02_Honey_250g",
+    "batch_id": "BATCH02",
+    "product_name": "Honey 250g",
+    "quantity": "2.00",
+    "unit_purchase_cost": "3.25",
+    "unit_shipping_cost": "2.75",
+    "unit_local_cost": "1.50",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:11.906Z"
+  },
+  {
+    "id": "BATCH02_Honey_500g",
+    "batch_id": "BATCH02",
+    "product_name": "Honey 500g",
+    "quantity": "2.00",
+    "unit_purchase_cost": "6.50",
+    "unit_shipping_cost": "5.50",
+    "unit_local_cost": "2.00",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:11.961Z"
+  },
+  {
+    "id": "BATCH02_Honey_1kg",
+    "batch_id": "BATCH02",
+    "product_name": "Honey 1kg",
+    "quantity": "3.00",
+    "unit_purchase_cost": "13.50",
+    "unit_shipping_cost": "11.00",
+    "unit_local_cost": "3.00",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:12.006Z"
+  },
+  {
+    "id": "BATCH02_Energy_Package_(500g_honey_+_10g_Royal_Jelly+_10g_Pollen)",
+    "batch_id": "BATCH02",
+    "product_name": "Energy Package (500g honey + 10g Royal Jelly+ 10g Pollen)",
+    "quantity": "0.00",
+    "unit_purchase_cost": "18.50",
+    "unit_shipping_cost": "5.50",
+    "unit_local_cost": "2.00",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:12.056Z"
+  },
+  {
+    "id": "BATCH03_Honey_250g",
+    "batch_id": "BATCH03",
+    "product_name": "Honey 250g",
+    "quantity": "0.00",
+    "unit_purchase_cost": "3.75",
+    "unit_shipping_cost": "2.75",
+    "unit_local_cost": "1.25",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:12.151Z"
+  },
+  {
+    "id": "BATCH03_Honey_500g",
+    "batch_id": "BATCH03",
+    "product_name": "Honey 500g",
+    "quantity": "0.00",
+    "unit_purchase_cost": "7.50",
+    "unit_shipping_cost": "5.50",
+    "unit_local_cost": "2.00",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:12.197Z"
+  },
+  {
+    "id": "BATCH03_Honey_1kg",
+    "batch_id": "BATCH03",
+    "product_name": "Honey 1kg",
+    "quantity": "0.00",
+    "unit_purchase_cost": "15.00",
+    "unit_shipping_cost": "11.00",
+    "unit_local_cost": "3.00",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:12.244Z"
+  },
+  {
+    "id": "BATCH03_Energy_Package_(500g_honey_+_10g_Royal_Jelly+_10g_Pollen)",
+    "batch_id": "BATCH03",
+    "product_name": "Energy Package (500g honey + 10g Royal Jelly+ 10g Pollen)",
+    "quantity": "0.00",
+    "unit_purchase_cost": "19.50",
+    "unit_shipping_cost": "5.50",
+    "unit_local_cost": "2.00",
+    "total_cost": "0.00",
+    "created_at": "2025-07-17T12:50:12.290Z"
+  }
+]
